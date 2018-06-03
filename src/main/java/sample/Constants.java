@@ -16,8 +16,8 @@ public class Constants {
     public Constants(){
 
     }
-    private final static String PHONE_NUMBER = " +18582120560";
-    private final static String MY_PHONE_NUMBER = " +100000000";
+    private final static String PHONE_NUMBER = " + Twilio phone #";
+    private final static String MY_PHONE_NUMBER = " +1 Your phone number";
 
     private final static String ACCOUNT_SID = "ACxxxxxxxxxxxxx";
     private final static String AUTH_TOKEN = "Your_Auth_Token";
