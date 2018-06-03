@@ -17,7 +17,7 @@ public class Constants {
 
     }
     private final static String PHONE_NUMBER = " +18582120560";
-    private final static String MY_PHONE_NUMBER = " +16199056187";
+    private final static String MY_PHONE_NUMBER = " +100000000";
 
     private final static String ACCOUNT_SID = "ACf5d09859f655b8879a3613251424e673";
     private final static String AUTH_TOKEN = "bb0ff630d6666a76b64495d4cece2621";
